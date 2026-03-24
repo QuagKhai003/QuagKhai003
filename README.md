@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 One day, I hope to grow as a Technical Product Manager or Product Engineer and an active community developer for building meaningful tools that empower small businesses and improve our daily basis. </p>
 
-<h4 align="left">⚡Fun fact:</h4>
+<h2 align="left">⚡Fun fact:</h4>
 
 ###
 
@@ -31,7 +31,7 @@ One day, I hope to grow as a Technical Product Manager or Product Engineer and a
 
 ###
 
-<h3 align="left">🤝 Feel free to connect with me:</h3>
+<h2 align="left">🤝 Feel free to connect with me:</h3>
 
 ###
 
