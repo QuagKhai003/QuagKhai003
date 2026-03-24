@@ -48,7 +48,7 @@ One day, I hope to grow as a Technical Product Manager or Product Engineer and a
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuagKhai003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=QuagKhai003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=QuagKhai003&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
