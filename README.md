@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">"I am a 4th-year IT student at RMIT University with a foundation in full-stack web development, though my current focus is transitioning into backend engineering. My long-term goal is to solve complex business problems through technology. Right now, I am expanding my expertise by exploring Agent Systems, advanced Software Engineering concepts, Deep Learning, and LLMs.
+<p align="left">"I am a 4th-year IT student at RMIT University with a foundation in full-stack web development, leaning toward to backend engineering. My long-term goal is solving complex business problems through technology. Right now, I am expanding my expertise by exploring Advanced Software Engineering concepts, System Design, Agent Systems and LLMs.
 
 One day, I hope to grow as a Technical Product Manager or Product Engineer and an active community developer for building meaningful tools that empower small businesses and improve our daily basis. </p>
 
