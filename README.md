@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **QuagKhai003/QuagKhai003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,7 +28,7 @@ One day, I hope to grow as a Technical Product Manager or Product Engineer and a
 ###
 
 <p align="left"> Beyond my coding background and boring profile, I am actively engaged in the other domains such as photography, cinematography, and fashion, logistics & supply chain, and the startup ecosystem.<br> 
-  <br> **`Whether we share a technical background or come from completely different industry, I am always love connecting!`** </p>
+  <br> <strong>Whether we share a technical background or come from completely different industry, I am always love connecting!<strong> </p>
 
 ###
 
