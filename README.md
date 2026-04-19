@@ -79,7 +79,9 @@ One day, I hope to grow as a Technical Product Manager or Product Engineer and a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=Linux&logoColor=FCC624) 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+###
 
 <div align="center">
   <!--
